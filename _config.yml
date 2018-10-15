@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Nur Yaumi
+bio: Full-Time Dreamer, Part-Time Software Engineer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,15 +8,15 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/ava.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://www.visualcv.com/nur-yaumi
 
-url: https://koppl.in/indigo
+url: http://yaumianwar.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,36 +34,30 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: yauminur
+twitter: seiraeat
 # google: mygoogle
-# instagram: myinstagram
+instagram: nryaumi
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: nur-yaumi-636316113
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: yaumianwar
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: nuryaumi10@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    yaumi:
+        name: Nur Yaumi
+        bio: Full-Time Dreamer, Part-Time Software Engineer
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        picture: assets/images/ava.jpg
+        twitter: seiraeat
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
